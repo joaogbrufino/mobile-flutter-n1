@@ -4,7 +4,6 @@ import '../constants/image_assets.dart';
 import '../theme/app_colors.dart';
 import '../widgets/feed_post_card.dart';
 
-/// Feed estilo Instagram: lista vertical de posts (sem stories).
 class FeedPage extends StatelessWidget {
   const FeedPage({super.key});
 

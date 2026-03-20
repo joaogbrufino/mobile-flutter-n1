@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-/// Paleta: azul marinho e branco. Textos: branco ou preto conforme o fundo.
 class AppColors {
   AppColors._();
 

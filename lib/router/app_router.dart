@@ -4,7 +4,6 @@ import '../login_page.dart';
 import '../register_page.dart';
 import '../screens/main_shell.dart';
 
-/// Rotas nomeadas e transições entre telas.
 class AppRoutes {
   AppRoutes._();
 

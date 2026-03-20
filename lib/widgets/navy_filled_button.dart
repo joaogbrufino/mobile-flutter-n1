@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import '../theme/app_colors.dart';
 
-/// Botão primário reutilizável (sem estado).
 class NavyFilledButton extends StatelessWidget {
   const NavyFilledButton({
     super.key,

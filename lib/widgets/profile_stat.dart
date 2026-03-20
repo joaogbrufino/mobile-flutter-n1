@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import '../theme/app_colors.dart';
 
-/// Número + rótulo para estatísticas do perfil (sem estado).
 class ProfileStat extends StatelessWidget {
   const ProfileStat({
     super.key,

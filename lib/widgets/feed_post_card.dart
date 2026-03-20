@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import '../theme/app_colors.dart';
 
-/// Card de post estilo feed com curtir e modal de comentário.
 class FeedPostCard extends StatefulWidget {
   const FeedPostCard({
     super.key,

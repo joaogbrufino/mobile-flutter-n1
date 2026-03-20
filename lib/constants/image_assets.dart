@@ -1,4 +1,3 @@
-/// Caminhos das imagens locais (substitua os arquivos nas pastas mantendo os nomes).
 class ImageAssets {
   ImageAssets._();
 
@@ -8,6 +7,5 @@ class ImageAssets {
     'assets/images/feed/feed_03.jpg',
   ];
 
-  /// Mesmas imagens do feed na grade do perfil.
   static const List<String> profileGrid = feedPosts;
 }

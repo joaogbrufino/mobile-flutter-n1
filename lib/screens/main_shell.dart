@@ -5,7 +5,6 @@ import '../theme/app_colors.dart';
 import 'feed_page.dart';
 import 'profile_page.dart';
 
-/// Navegação entre Feed e Perfil (transição interna suave).
 class MainShell extends StatefulWidget {
   const MainShell({super.key});
 

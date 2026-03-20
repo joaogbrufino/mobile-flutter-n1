@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import '../theme/app_colors.dart';
 
-/// Célula da grade de fotos do perfil (sem estado).
 class ProfilePhotoTile extends StatelessWidget {
   const ProfilePhotoTile({
     super.key,

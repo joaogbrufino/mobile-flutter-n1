@@ -5,7 +5,6 @@ import '../theme/app_colors.dart';
 import '../widgets/profile_photo_tile.dart';
 import '../widgets/profile_stat.dart';
 
-/// Perfil com cabeçalho e grade de fotos (estilo galeria).
 class ProfilePage extends StatelessWidget {
   const ProfilePage({super.key});
 
